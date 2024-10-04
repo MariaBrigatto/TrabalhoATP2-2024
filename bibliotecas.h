@@ -2,4 +2,5 @@
 #include<stdlib.h>
 #include<conio2.h>
 #include<ctype.h>
+#include<windows.h>
 
